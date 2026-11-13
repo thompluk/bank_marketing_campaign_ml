@@ -12,7 +12,7 @@ import joblib
 # =============================================================================
 st.set_page_config(page_title="Deposit Radar", page_icon="🏦", layout="wide")
 
-MODEL_PATH = "model_gboost_v1.sav"
+MODEL_PATH = "/../model/model_gboost_v1.sav"
 TARGET_COL = "deposit"  # Asumsikan nama kolom target
 ID_COL = "id"           # Opsional jika ada
 RANDOM_STATE = 42
