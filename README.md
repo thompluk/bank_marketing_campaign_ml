@@ -1,5 +1,9 @@
 # Bank Marketing Campaign: Term Deposit Prediction
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bankmarketingcampaignml-txlflykzdipyjvarm37mub.streamlit.app)
+
+**Live Demo:** [Bank Marketing Campaign Prediction App](https://bankmarketingcampaignml-txlflykzdipyjvarm37mub.streamlit.app)
+
 ## 1. Project Overview
 This project analyzes bank telemarketing data to extract insights, improve decision-making, and identify key conversion trends. The primary focus is to **optimize telemarketing operational efficiency and maximize term deposit conversions** by moving away from randomized blanket marketing to a data-driven, targeted approach.
 
