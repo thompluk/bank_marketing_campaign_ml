@@ -1,0 +1,12 @@
+pandas==3.0.5
+numpy==2.5.3
+matplotlib==3.11.1
+seaborn==0.13.2
+scikit-learn==1.9.1
+feature-engine==1.9.4
+xgboost==3.4.1
+lightgbm==4.7.0
+shap==0.54.1
+joblib==1.6.0
+optuna==5.0.0
+ploty==7.1.0
