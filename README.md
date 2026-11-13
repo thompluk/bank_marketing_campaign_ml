@@ -62,6 +62,6 @@ Due to limited operational resources (e.g., daily call quotas), the bank needs a
 - **Cost-Sensitive Threshold Tuning:** Always evaluate the model's decision threshold based on actual business costs (Cost Per Call vs. Profit Per Deposit) rather than default statistical metrics (0.5 threshold) to maximize ROI.
 
 ## 6. Contact
-- **Name:** [Your Name Here]
-- **Email:** [Your Email Here]
-- **LinkedIn:** [Your LinkedIn URL Here]
+- **Name:** Thomas Dany H
+- **Email:** thomasdany38@gmail.com 
+- **LinkedIn:** www.linkedin.com/in/thomas-dany-haryanto
